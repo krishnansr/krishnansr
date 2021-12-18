@@ -19,12 +19,6 @@ I have an intersectional interest in PPML and Differential privacy-FL techniques
 ![JAX](https://img.shields.io/badge/jax-21a79b?style=for-the-badge&logo=google&logoColor=9d22b2)
 ![Django](https://img.shields.io/badge/django-%2320232a.svg?style=for-the-badge&logo=django&logoColor=%2361DAFB)
 
-### Contact Information
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivaramakrishnan-subramanian/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnansr.siva@gmail.com)
-[![GScholar](https://img.shields.io/badge/Scholar-4084f2?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=73VbzzAAAAAJ&hl=en)
-<!-- [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=InfluxDB&logoColor=white)](https://A-Wadhwani.github.io) -->
-
 ### Other Tools
 ![OpenCV](https://img.shields.io/badge/opencv-000000.svg?style=for-the-badge&logo=opencv)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
@@ -34,6 +28,13 @@ I have an intersectional interest in PPML and Differential privacy-FL techniques
 ![SQL](https://img.shields.io/badge/postgres-B0DBF1.svg?style=for-the-badge&logo=postgresql)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Contact Information
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivaramakrishnan-subramanian/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnansr.siva@gmail.com)
+[![GScholar](https://img.shields.io/badge/Scholar-4084f2?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=73VbzzAAAAAJ&hl=en)
+<!-- [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=InfluxDB&logoColor=white)](https://A-Wadhwani.github.io) -->
+
 
 <!-- ### Statistics
 ![krishnansr's github stats](https://github-readme-stats.vercel.app/api?username=krishnansr&count_private=true&theme=tokyonight&hide=contribs,prs)
