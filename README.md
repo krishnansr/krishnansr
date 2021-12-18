@@ -36,7 +36,8 @@ I have an intersectional interest in PPML and Differential privacy-FL techniques
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <!-- ### Statistics
-![Aryan's GitHub rating](https://github-readme-stats.vercel.app/api?username=krishnansr&show_icons=true&count_private=true&hide=stars) -->
+![krishnansr's github stats](https://github-readme-stats.vercel.app/api?username=krishnansr&count_private=true&theme=tokyonight&hide=contribs,prs)
+![krishnansr's GitHub rating](https://github-readme-stats.vercel.app/api?username=krishnansr&show_icons=true&count_private=true&hide=stars) -->
 
 
 <!--
