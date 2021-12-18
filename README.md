@@ -25,6 +25,16 @@ I have an intersectional interest in PPML and Differential privacy-FL techniques
 [![GScholar](https://img.shields.io/badge/Scholar-4084f2?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=73VbzzAAAAAJ&hl=en)
 <!-- [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=InfluxDB&logoColor=white)](https://A-Wadhwani.github.io) -->
 
+### Other Tools
+![OpenCV](https://img.shields.io/badge/opencv-000000.svg?style=for-the-badge&logo=opencv)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-000137.svg?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/aws-C35B17.svg?style=for-the-badge&logo=amazonaws)
+![Neo4j](https://img.shields.io/badge/neo4j-470137.svg?style=for-the-badge&logo=neo4j)
+![SQL](https://img.shields.io/badge/postgres-B0DBF1.svg?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 <!-- ### Statistics
 ![Aryan's GitHub rating](https://github-readme-stats.vercel.app/api?username=krishnansr&show_icons=true&count_private=true&hide=stars) -->
 
