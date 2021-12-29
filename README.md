@@ -1,6 +1,6 @@
 ### Hello there. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm **Sivaramakrishnan Subramanian**, and I'm a data scientist at **AppOrchid Inc**'s R&D Division. I'm interested in all things machine intelligence (and systems programming of late).
+I'm **Sivaramakrishnan Subramanian**, and I'm a data scientist at **AppOrchid Inc**'s R&D Division. I'm interested in all things machine intelligence. <!-- (and systems programming of late). -->
 
 I'm currently working in the computer vision sphere and my research problems are skewed towards Document Representation Learning (DRL) and Semantic PDF understanding for financial doc cohorts: extracting document metadata from legalese docs using DL & traditional vision techniques.
 
