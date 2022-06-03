@@ -1,4 +1,4 @@
-### Hello there. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+### Hello there. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" height="28" alt="hi">
 
 I'm **Sivaramakrishnan Subramanian**, and I'm a data scientist at **AppOrchid Inc**'s R&D Division. I'm interested in all things machine intelligence. <!-- (and systems programming of late). -->
 
