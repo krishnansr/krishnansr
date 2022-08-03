@@ -7,8 +7,8 @@ Prior to grad school, I worked on CV problems in the R&D Division at **AppOrchid
 I have an intersectional interest in PPML and Differential privacy-FL techniques and part of the vibrant community at **OpenMined**. My previous work and publications runs the gamut from electrical motor design and applied statistical analysis to industrial machine vision, and I still relish contemporary research here.
 
 ### Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-%23008080.svg?style=for-the-badge&logo=labview&color=636363)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
@@ -24,17 +24,16 @@ I have an intersectional interest in PPML and Differential privacy-FL techniques
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-000137.svg?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/aws-C35B17.svg?style=for-the-badge&logo=amazonaws)
-![Neo4j](https://img.shields.io/badge/neo4j-470137.svg?style=for-the-badge&logo=neo4j)
-![SQL](https://img.shields.io/badge/postgres-B0DBF1.svg?style=for-the-badge&logo=postgresql)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/postgres-B0DBF1.svg?style=for-the-badge&logo=postgresql)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Neo4j](https://img.shields.io/badge/neo4j-470137.svg?style=for-the-badge&logo=neo4j)
 
 ### Contact Information
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivaramakrishnan-subramanian/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivarams@cs.cmu.edu)
 [![GScholar](https://img.shields.io/badge/Scholar-4084f2?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=73VbzzAAAAAJ&hl=en)
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=InfluxDB&logoColor=white)](https://krishnansr.github.io/)
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivaramakrishnan-subramanian/)
 
 ### Statistics
 <!-- ![krishnansr's github stats](https://github-readme-stats.vercel.app/api?username=krishnansr&count_private=true&theme=tokyonight&hide=contribs,prs) -->
