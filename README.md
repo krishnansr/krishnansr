@@ -2,7 +2,7 @@
 
 I'm **Sivaramakrishnan Subramanian**, and I'm a graduate student studying Computer Vision and Machine Learning at the **Robotics Institute, Carnegie Mellon University**. I'm interested in all things machine intelligence (and systems programming of late).
 
-Prior to grad school, I worked on CV problems in the R&D Division at **AppOrchid Inc**, a Fast500 AI company in the utilities & energy indutry. My research problems here were skewed towards Document Representation Learning (DRL) and Semantic PDF understanding for financial doc cohorts: extracting document metadata from legalese docs using DL & vision techniques.
+Prior to grad school, I worked on CV problems in the R&D Division at **AppOrchid Inc**, a Fast500 AI company in the utilities & energy industry. My research problems here were skewed towards Document Representation Learning (DRL) and Semantic PDF understanding for financial doc cohorts: extracting document metadata from legalese docs using DL & vision techniques.
 
 I have an intersectional interest in PPML and Differential privacy-FL techniques and part of the vibrant community at **OpenMined**. My previous work and publications runs the gamut from electrical motor design and applied statistical analysis to industrial machine vision, and I still relish contemporary research here.
 
