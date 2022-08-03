@@ -1,10 +1,10 @@
 ### Hello there. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" height="28" alt="hi">
 
-I'm **Sivaramakrishnan Subramanian**, and I'm a data scientist at **AppOrchid Inc**'s R&D Division. I'm interested in all things machine intelligence. <!-- (and systems programming of late). -->
+I'm **Sivaramakrishnan Subramanian**, and I'm a graduate student studying Computer Vision and Machine Learning at the **Robotics Institute, Carnegie Mellon University**. I'm interested in all things machine intelligence (and systems programming of late).
 
-I'm currently working in the computer vision sphere and my research problems are skewed towards Document Representation Learning (DRL) and Semantic PDF understanding for financial doc cohorts: extracting document metadata from legalese docs using DL & traditional vision techniques.
+Prior to grad school, I worked on CV problems in the R&D Division at **AppOrchid Inc**', a Fast500 AI company in the utilities & energy indutry. My research problems here were skewed towards Document Representation Learning (DRL) and Semantic PDF understanding for financial doc cohorts: extracting document metadata from legalese docs using DL & vision techniques.
 
-I have an intersectional interest in PPML and Differential privacy-FL techniques and part of the vibrant community at **OpenMined**. In the past, I worked in the interdisciplinary field of electrical machine design optimization using machine learning at **SSN** and still relish contemporary research here.
+I have an intersectional interest in PPML and Differential privacy-FL techniques and part of the vibrant community at **OpenMined**. My previous work and publications runs the gamut from electrical motor design and applied statistical analysis to industrial machine vision, and I still relish contemporary research here.
 
 ### Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -31,14 +31,14 @@ I have an intersectional interest in PPML and Differential privacy-FL techniques
 
 ### Contact Information
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivaramakrishnan-subramanian/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishnansr.siva@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivarams@cs.cmu.edu)
 [![GScholar](https://img.shields.io/badge/Scholar-4084f2?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=73VbzzAAAAAJ&hl=en)
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=InfluxDB&logoColor=white)](https://krishnansr.github.io/)
 
 
-<!-- ### Statistics
-![krishnansr's github stats](https://github-readme-stats.vercel.app/api?username=krishnansr&count_private=true&theme=tokyonight&hide=contribs,prs)
-![krishnansr's GitHub rating](https://github-readme-stats.vercel.app/api?username=krishnansr&show_icons=true&count_private=true&hide=stars) -->
+### Statistics
+<!-- ![krishnansr's github stats](https://github-readme-stats.vercel.app/api?username=krishnansr&count_private=true&theme=tokyonight&hide=contribs,prs) -->
+![krishnansr's GitHub rating](https://github-readme-stats.vercel.app/api?username=krishnansr&show_icons=true&count_private=true&hide=stars)
 
 
 <!--
