@@ -1,6 +1,6 @@
 ### Hello there. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" height="28" alt="hi">
 
-I'm **Sivaramakrishnan Subramanian**, and I'm a graduate student studying Computer Vision and Machine Learning at the **Robotics Institute, Carnegie Mellon University**. I'm interested in all things machine intelligence (and systems programming of late).
+I'm **Sivaramakrishnan Subramanian**, and I'm a graduate student studying Computer Vision and Machine Learning at the **Robotics Institute, Carnegie Mellon University**. I'm currently a research assistant at Xu Lab in the School of Computer science, CMU working on visual learning pipelines for self-supervised extraction of 3D object-aware representations using controllable GANs and domain adaptation. I'm interested in all things machine intelligence (and systems programming of late).
 
 Before grad school, I worked on CV problems in the R&D Division at **AppOrchid Inc**, a Fast500 AI company in the utilities & energy industry. My research problems here were skewed towards Document Representation Learning (DRL) and Semantic PDF understanding for financial doc cohorts: extracting document metadata from legalese docs using DL & vision techniques.
 
